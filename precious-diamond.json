@@ -1,0 +1,15 @@
+{
+  "id": "precious-diamond",
+  "name": "Precious Diamond",
+  "output": 1,
+  "inputs": [
+    {
+      "id": "pure-graphite",
+      "amount": 21
+    },
+    {
+      "id": "energy",
+      "amount": 257
+    }
+  ]
+}

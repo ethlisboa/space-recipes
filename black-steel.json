@@ -1,0 +1,19 @@
+{
+  "id": "black-steel",
+  "name": "Black Steel",
+  "output": 1,
+  "inputs": [
+    {
+      "id": "pure-graphite",
+      "amount": 3
+    },
+    {
+      "id": "iron-ore",
+      "amount": 19
+    },
+    {
+      "id": "energy",
+      "amount": 17
+    }
+  ]
+}

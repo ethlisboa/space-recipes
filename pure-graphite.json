@@ -1,0 +1,15 @@
+{
+  "id": "pure-graphite",
+  "name": "Pure Graphite",
+  "output": 1,
+  "inputs": [
+    {
+      "id": "charcoal",
+      "amount": 3
+    },
+    {
+      "id": "energy",
+      "amount": 11
+    }
+  ]
+}

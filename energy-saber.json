@@ -1,0 +1,15 @@
+{
+  "id": "energy-saber",
+  "name": "Energy Saber",
+  "output": 1,
+  "inputs": [
+    {
+      "id": "energy-crystal",
+      "amount": 3
+    },
+    {
+      "id": "saber-handle",
+      "amount": 1
+    }
+  ]
+}

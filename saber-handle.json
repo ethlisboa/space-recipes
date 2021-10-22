@@ -1,0 +1,15 @@
+{
+  "id": "saber-handle",
+  "name": "Saber Handle",
+  "output": 1,
+  "inputs": [
+    {
+      "id": "black-steel",
+      "amount": 5
+    },
+    {
+      "id": "raccoon-leather",
+      "amount": 1
+    }
+  ]
+}

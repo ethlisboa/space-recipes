@@ -1,0 +1,11 @@
+{
+  "id": "raccoon-leather",
+  "name": "Raccoon Leather",
+  "output": 1,
+  "inputs": [
+    {
+      "id": "space-raccoon",
+      "amount": 3
+    }
+  ]
+}

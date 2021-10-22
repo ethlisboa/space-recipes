@@ -1,0 +1,15 @@
+{
+  "id": "charcoal",
+  "name": "Charcoal",
+  "output": 1,
+  "inputs": [
+    {
+      "id": "terrestrial-wood",
+      "amount": 3
+    },
+    {
+      "id": "energy",
+      "amount": 5
+    }
+  ]
+}

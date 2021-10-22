@@ -1,0 +1,15 @@
+{
+  "id": "energy-crystal",
+  "name": "Energy Crystal",
+  "output": 1,
+  "inputs": [
+    {
+      "id": "epic-opal",
+      "amount": 1
+    },
+    {
+      "id": "precious-diamonds",
+      "amount": 137
+    }
+  ]
+}
