@@ -1,2 +1,2 @@
 # space-recipes
-you have to put the energy saber into the asteroid 
+A community-maintained collection of factory-recipes for SpaceXcalibur.
